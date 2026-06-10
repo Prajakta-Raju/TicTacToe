@@ -69,7 +69,3 @@ A responsive and interactive Tic Tac Toe game built using **HTML**, **CSS**, **J
 ##  Preview
 
 A fun browser-based Tic Tac Toe game that demonstrates core front-end development concepts while providing an engaging user experience.
-
----
-
-⭐ If you like this project, consider giving it a star and exploring the code to learn more about front-end game development.
